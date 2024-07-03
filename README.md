@@ -65,7 +65,7 @@ There are two file to be in use
   vim default
 ```
  Edit the part below in the image:
- ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+ ![Logo](image-1.png)
 
 ## Reload your page with your public IP
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
