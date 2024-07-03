@@ -68,7 +68,7 @@ There are two file to be in use
  ![Logo](image-1.png)
 
 ## Reload your page with your public IP
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](image-3.png)
 
 # Note:- No add task is working 
 Now connect the api to the server.
@@ -95,10 +95,10 @@ Now connect the api to the server.
   vim default
 ```
 add this part.
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](image-2.png)
 
 ## Now Reload your web page:
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](image-4.png)
 
 Hence, it will showing our application using nginx reverse-proxy.
